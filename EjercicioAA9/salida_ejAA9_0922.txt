@@ -1,0 +1,7 @@
+Videojuegos:
+nombre=Dark Souls 3, categoria=RPG, precio=14.99€, nCopias=10000, horas=50, dinero total=149900.0€
+nombre=The Last of Us, categoria=acción, precio=10.0€, nCopias=50000, horas=12, dinero total=500000.0€
+nombre=FIFA 22, categoria=emulador, precio=49.99€, nCopias=60000, horas=2000, dinero total=2999400.0€
+nombre=Mario Bros, categoria=arcade, precio=39.9€, nCopias=45000, horas=30, dinero total=1795500.0€
+nombre=Fortnite, categoria=Battle Royale, precio=0.0€, nCopias=100000, horas=5000, dinero total=0.0€
+nombre=Horizon: Forbidden West, categoria=aventura, precio=63.99€, nCopias=50000, horas=95, dinero total=3199500.0€
