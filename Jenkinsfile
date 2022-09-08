@@ -24,7 +24,8 @@ pipeline {
         stage('informaticos') {
             steps {
                 script{
-                    if(diasSemana=="Jueves") {
+                  printl(
+                    if(diasSemana[dia]=="Jueves") {
                       println("¿Que le habla un bit al otro? Nos vemos en el bus")
                     }
             }
@@ -35,7 +36,7 @@ pipeline {
         stage('humorNegro') {
             steps {
                 script{
-                    if(diasSemana=="Viernes") {
+                    if(diasSemana[dia]=="Viernes") {
                       println("¿Que hace una niña palestina en un columpio? Marear al francotirador")
                     }
                 }
@@ -45,7 +46,7 @@ pipeline {
         stage('futbol') {
             steps {
                 script{
-                    if(diasSemana=="Lunes") {
+                    if(diasSemana[dia]=="Lunes") {
                       println("Por qué Messi no bautiza a su hijo? Para no hacerse Cristiano.")
                     }
                 }
