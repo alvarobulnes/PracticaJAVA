@@ -16,8 +16,8 @@ pipeline {
         stage('fecha') {
             steps {
                 script{
-                    def dia = new Date()
-                    println dia.format('dd/MM/yyyy')
+                    def diaMes = new Date()
+                    println diaMes.format('dd/MM/yyyy')
                 }
             }
         }
