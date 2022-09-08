@@ -1,0 +1,16 @@
+pipeline {
+    agent any
+    stages{
+        
+        stage('mostrarFecha') {
+            steps {
+                script{
+                    def dia = new Date()
+                    println("Hola mundo! El día de hoy es " + dia)
+                    println ("Este curso me hizo programar más de lo que me hubiese gustado.")
+                }
+            }
+        }
+            
+    }
+}
