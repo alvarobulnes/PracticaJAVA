@@ -25,6 +25,7 @@ pipeline {
             steps {
                 script{
                     if(diasSemana[dia]=="Jueves") {
+                      println(diasSemana[dia])
                       println("¿Que le habla un bit al otro? Nos vemos en el bus")
                     }
             }
@@ -36,6 +37,7 @@ pipeline {
             steps {
                 script{
                     if(diasSemana[dia]=="Viernes") {
+                      println(diasSemana[dia])
                       println("¿Que hace una niña palestina en un columpio? Marear al francotirador")
                     }
                 }
@@ -46,6 +48,7 @@ pipeline {
             steps {
                 script{
                     if(diasSemana[dia]=="Lunes") {
+                      println(diasSemana[dia])
                       println("Por qué Messi no bautiza a su hijo? Para no hacerse Cristiano.")
                     }
                 }
