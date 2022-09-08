@@ -24,7 +24,6 @@ pipeline {
         stage('informaticos') {
             steps {
                 script{
-                  printl(
                     if(diasSemana[dia]=="Jueves") {
                       println("¿Que le habla un bit al otro? Nos vemos en el bus")
                     }
