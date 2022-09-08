@@ -30,12 +30,7 @@ pipeline {
             }
          }
       }
-                    
-                    
-                    
-                }
-            }
-        }
+
         
         stage('humorNegro') {
             steps {
