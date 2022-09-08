@@ -6,8 +6,8 @@ pipeline {
             steps {
                 script{
                     def dia = new Date()
-                    println("Hola mundo! El dÌa de hoy es " + dia)
-                    println ("Este curso me hizo programar m·s de lo que me hubiese gustado.")
+                    println("Hola mundo! El d√≠a de hoy es " + dia)
+                    println ("Este curso me hizo programar m√°s de lo que me hubiese gustado.")
                 }
             }
         }
