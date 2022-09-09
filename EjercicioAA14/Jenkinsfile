@@ -6,7 +6,7 @@ pipeline {
             steps {
                 script{
                     def dia = new Date()
-                    println("Chocolate Blanco			  1000")
+                    println("Chocolate Blanco             1000")
                     println("Chocolate Negro              1500")    
                     println("Chocolate con almendras      1200")
                     println("Chocolate en rama            100")
