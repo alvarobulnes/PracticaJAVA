@@ -1,0 +1,4 @@
+Chocolate Blanco:  1000
+Chocolate Negro:  1500
+Chocolate con almendras:  1200
+Chocolate en rama:  100
