@@ -5,7 +5,6 @@ pipeline{
         stage("holaMundo"){
             steps{
                 script{
-                    println "¡Hola, hoy es un dia espectacular para producir chocolate! Mira lo que se ha producido: "
                     println "A Coruña A Coruña"
                     println "Alacant Alacant"
                     println "Albacete Albacete"
