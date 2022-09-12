@@ -1,0 +1,53 @@
+ID: 4 Nombre: Álvaro Bulnes Fecha: 2022-09-12
+Nombre=A Coruña, Capital=A Coruña
+Nombre=Alacant, Capital=Alacant
+Nombre=Albacete, Capital=Albacete
+Nombre=Almería, Capital=Almería
+Nombre=Araba, Capital=Araba
+Nombre=Asturias, Capital=Asturias
+Nombre=Badajoz, Capital=Badajoz
+Nombre=Barcelona, Capital=Barcelona
+Nombre=Bizkaia, Capital=Bizkaia
+Nombre=Burgos, Capital=Burgos
+Nombre=Cantabria, Capital=Cantabria
+Nombre=Castelló, Capital=Castelló
+Nombre=Ceuta, Capital=Ceuta
+Nombre=Ciudad Real, Capital=Ciudad Real
+Nombre=Cuenca, Capital=Cuenca
+Nombre=Cáceres, Capital=Cáceres
+Nombre=Cádiz, Capital=Cádiz
+Nombre=Córdoba, Capital=Córdoba
+Nombre=Gipuzcoa, Capital=Gipuzcoa
+Nombre=Girona, Capital=Girona
+Nombre=Granada, Capital=Granada
+Nombre=Guadalajara, Capital=Guadalajara
+Nombre=Huelva, Capital=Huelva
+Nombre=Huesca, Capital=Huesca
+Nombre=Illes Balears, Capital=Illes Balears
+Nombre=Jaén, Capital=Jaén
+Nombre=La Rioja, Capital=La Rioja
+Nombre=Las Palmas, Capital=Las Palmas
+Nombre=León, Capital=León
+Nombre=Lleida, Capital=Lleida
+Nombre=Lugo, Capital=Lugo
+Nombre=Madrid, Capital=Madrid
+Nombre=Melilla, Capital=Melilla
+Nombre=Murcia, Capital=Murcia
+Nombre=Málaga, Capital=Málaga
+Nombre=Navarra, Capital=Navarra
+Nombre=Ourense, Capital=Ourense
+Nombre=Palencia, Capital=Palencia
+Nombre=Pontevedra, Capital=Pontevedra
+Nombre=Salamanca, Capital=Salamanca
+Nombre=Santa Cruz de Tenerife, Capital=Santa Cruz de Tenerife
+Nombre=Segovia, Capital=Segovia
+Nombre=Sevilla, Capital=Sevilla
+Nombre=Soria, Capital=Soria
+Nombre=Tarragona, Capital=Tarragona
+Nombre=Teruel, Capital=Teruel
+Nombre=Toledo, Capital=Toledo
+Nombre=Valladolid, Capital=Valladolid
+Nombre=València, Capital=València
+Nombre=Zamora, Capital=Zamora
+Nombre=Zaragoza, Capital=Zaragoza
+Nombre=Ávila, Capital=Ávila
