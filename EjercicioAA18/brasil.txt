@@ -1,0 +1,7 @@
+nombre: Brasil
+continente: America del Sur
+capital: Brasilia
+clima: Predominante: Variado
+habitantes: 212600000
+salario: 500.0
+PIB: 0.0

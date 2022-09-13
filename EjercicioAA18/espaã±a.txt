@@ -1,0 +1,7 @@
+nombre: España
+continente: Europa
+capital: Madrid
+clima: Predominante: Calido
+habitantes: 47350000
+salario: 1050.0
+PIB: 4.9717502E10

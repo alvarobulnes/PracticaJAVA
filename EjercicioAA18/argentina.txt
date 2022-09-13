@@ -1,0 +1,7 @@
+nombre: Argentina
+continente: America del sur
+capital: Buenos Aires
+clima: predominante: Humedo
+habitantes: 44000000
+salario: 800.0
+PIB: 3.52E10

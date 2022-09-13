@@ -1,0 +1,7 @@
+nombre: Alemania
+continente: Europa
+capital: Berlin
+clima: Predominante: Frio
+habitantes: 83240000
+salario: 1500.0
+PIB: 0.0
